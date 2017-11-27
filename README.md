@@ -2,11 +2,11 @@
 ###首先
 
 ***
->  * 喜欢的请点心，关注，star ,fork,这些是我坚持下去的动力
+> 
 （请用chrome的手机模式预览）
 >  *本项目地址[github地址](https://github.com/xiaoyaopai/elm)
 
->  * 手机扫一扫m
+>  * 手机扫一扫
 
 ![1484297893.png](http://upload-images.jianshu.io/upload_images/4249223-decb94b45122f9de.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -40,7 +40,7 @@
 ***
 项目地址：（`git clone`）
 ```shell
-git clone https://github.com/liangxiaojuan/eleme.git
+git clone https://github.com/xiaoyaopai/elm.git
 ```
 通过`npm`安装本地服务第三方依赖模块(需要已安装[Node.js](https://nodejs.org/))
 
@@ -95,10 +95,3 @@ npm install friendly-errors-webpack-plugin --save-dev
 * 图片左右滑动
 * 商品详情  父子组件的通信
 * 等等
-
-### 正在实现的功能
-***
-* vuex
-* 无限滚动
-*  上拉刷新
-* 更多更精彩的内容
